@@ -1,2 +1,1 @@
-# dnpgrouprepo
-DNP Project Repository
+All of the project is in the .ZIP File. Since I was workin in a group of 1, the assignment project is very raw. It has a huge part of the requirements and services but most of them need more work in order to actually do their job correctly. Folders were organized so it's a lot easier to find what you need.
